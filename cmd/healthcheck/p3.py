@@ -14,7 +14,7 @@ def Main():
 	print "{} Server 3 {}Problem !\n".format(Fore.CYAN,Fore.RED)
 
 	try:
-		list = raw_input("TRIAL IS END, IF YOU WANT TO BUY CONTACT @xxyz4 ")
+		list = raw_input("TRIAL IS END, IF YOU WANT TO BUY CONTACT telegram @xxyz4 ")
 	except:
 		pass
 
